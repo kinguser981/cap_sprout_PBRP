@@ -1,7 +1,7 @@
 # Pitch Black Recovery
 # The Perfect Android Recovery for your device!
 ![Nokia 5.3](https://pitchblackrecovery.com/wp-content/uploads/2020/06/Logo-3.png)
-Buils your own custom recovery for Nokia 5.3 (CAP_sprout).
+Nokia 5.3 (CAP_sprout).
 
  ██▓███   ██▓▄▄▄█████▓ ▄████▄   ██░ ██     ▄▄▄▄    ██▓    ▄▄▄       ▄████▄   ██ ▄█▀   
 ▓██░  ██▒▓██▒▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒   ▓█████▄ ▓██▒   ▒████▄    ▒██▀ ▀█   ██▄█▒    
