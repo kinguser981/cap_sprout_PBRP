@@ -1,7 +1,9 @@
 # Pitch Black Recovery
 # The Perfect Android Recovery for your device!
 ![Nokia 5.3](https://pitchblackrecovery.com/wp-content/uploads/2020/06/Logo-3.png)
-Nokia 5.3 (CAP_sprout).
+
+#Nokia 5.3 (CAP_sprout)
+
 
  ██▓███   ██▓▄▄▄█████▓ ▄████▄   ██░ ██     ▄▄▄▄    ██▓    ▄▄▄       ▄████▄   ██ ▄█▀   
 ▓██░  ██▒▓██▒▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒   ▓█████▄ ▓██▒   ▒████▄    ▒██▀ ▀█   ██▄█▒    
