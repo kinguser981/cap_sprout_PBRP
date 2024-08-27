@@ -58,11 +58,11 @@ Customize PBRP according to your needs using PBRP Theme Engine™
 
 
 # Notes
-- Despite using A/B partition scheme, this device has dedicated ramdisk (recovery partition). So just flash it like in any other A-only partition: ```
-function test() {
-  console.log("fastboot flash recovery recovery.img");
-}
-```, it will automatically flash in the active slot.
+- Despite using A/B partition scheme, this device has dedicated ramdisk (recovery partition). So just flash it like in any other A-only partition:
+```
+fastboot flash recovery recovery.img
+```
+, it will automatically flash in the active slot.
 
 ```
 # Copyright (C) 2023 The Android Open Source Project
