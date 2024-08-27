@@ -62,7 +62,7 @@ Customize PBRP according to your needs using PBRP Theme Engine™
 ```
 fastboot flash recovery recovery.img
 ```
-, it will automatically flash in the active slot.
+and it will automatically flash in the active slot.
 
 ```
 # Copyright (C) 2023 The Android Open Source Project
