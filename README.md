@@ -2,8 +2,6 @@
 # The Perfect Android Recovery for your device!
 ![Nokia 5.3](https://github.com/PitchBlackRecoveryProject/xda-template/blob/r3/pbrp3-banner-xda.png)
 ```
-function test() {
-  console.log("
 
  ██▓███   ██▓▄▄▄█████▓ ▄████▄   ██░ ██     ▄▄▄▄    ██▓    ▄▄▄       ▄████▄   ██ ▄█▀   
 ▓██░  ██▒▓██▒▓  ██▒ ▓▒▒██▀ ▀█  ▓██░ ██▒   ▓█████▄ ▓██▒   ▒████▄    ▒██▀ ▀█   ██▄█▒    
@@ -16,8 +14,7 @@ function test() {
           ░           ░ ░       ░  ░  ░    ░          ░  ░     ░  ░░ ░      ░  ░      
                       ░                         ░                  ░    
 
-");
-}
+
 ```
 
 # About PBRP
